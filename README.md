@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saad Eddine Loughzali
-- 👀 I’m interested in Business intelligence, Data visualisation, Data science, Machine Learning, Developpment
+- 👀 I’m interested in Business intelligence, Data visualisation, Data science, Machine Learning, Development
 - 🌱 I’m currently learning Machine learning with python
 - 💞️ I’m looking to collaborate on projects about Data science
 - 📫 How to reach me: saadlough1@gmail.com
