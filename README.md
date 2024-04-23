@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saad Eddine Loughzali
+- 👋 Hi, I’m Saad
 - 👀 I’m interested in Business intelligence, Data Analysis, Data visualization, Data Science, and Software Development
 - 🌱 I’m currently learning Machine learning with python
 - 💞️ I’m looking to collaborate on projects about Data analysis
