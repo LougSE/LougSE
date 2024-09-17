@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Saad
 - 👀 I’m interested in Business intelligence, Data Analysis, Data visualization, Data Science, and Software Development
-- 🌱 I’m currently learning Machine learning with python
-- 💞️ I’m looking to collaborate on projects about Data analysis
+- 🌱 I’m looking to collaborate on projects about Data
 - 📫 How to reach me: lougseco@gmail.com
 
 <!---
